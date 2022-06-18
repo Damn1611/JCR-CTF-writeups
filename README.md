@@ -31,7 +31,7 @@ Wireshark 103                            Defense Against the Dark Digital Arts  
 Wireshark 202                            Defense Against the Dark Digital Arts      Yes
 ```
 
-> The challenges that I haven't mentioned here I didn't do. And some dont have the solution because I cant recall what he challenge was fully.
+> The challenges that I haven't mentioned here I didn't do. And some dont have the solution because I cant recall what the challenge was fully.
 ## Disclaimer - Readme
 
 **Solution**
